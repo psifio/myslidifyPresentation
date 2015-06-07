@@ -1,6 +1,6 @@
 ---
-title       : new title    
-subtitle    : new subtitle   
+title       : extra title    
+subtitle    : extra subtitle   
 author      : test author     
 job         : test job
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
@@ -13,7 +13,7 @@ knit        : slidify::knit2slides
 
 ## Read-And-Delete
 
-1. Edit YAML front matter
+1. extra Edit YAML front matter
 2. Write using R Markdown
 3. Use an empty line followed by three dashes to separate slides!
 
