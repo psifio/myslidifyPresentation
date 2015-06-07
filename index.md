@@ -1,6 +1,6 @@
 ---
-title       : test title    
-subtitle    : test subtitle   
+title       : new title    
+subtitle    : new subtitle   
 author      : test author     
 job         : test job
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
@@ -49,4 +49,4 @@ _2_
 
 *** .explanation This is an explanation
 
---- .class #id 
+--- &radio
